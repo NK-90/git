@@ -1,0 +1,7 @@
+0. 프로젝트 디렉토리로 이동 
+
+1. git init 
+
+2. git add . / git commit -m "Initial commit"
+
+3. git remote add origin https://github.com/yourusername/새로만든 repository.git
